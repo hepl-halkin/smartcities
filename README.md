@@ -13,6 +13,7 @@ Le but de cette démarche est de pouvoi par la suite controller differents appar
 # Raspberry Pi Pico W
 Le microcontrôleur RP2040 intégré dans le Pico W est un processeur ARM Cortex-M0+ cadencé à 133 MHz, avec 264 Ko de mémoire flash et 32 Ko de mémoire vive (RAM). Le Pico W dispose également de 26 broches d'entrées/sorties (GPIO) qui peuvent être configurées pour différentes tâches, telles que la communication série, l'I2C, le SPI et bien d'autres.
 Couplé au Raspberry, nous utiliserons les modules grooves fournit avec le shield afin de faciliter la connection entre les différents modules et la carte.
+![image](https://user-images.githubusercontent.com/125503055/225649778-d0dcf8b4-b458-4cfa-b0a9-a7c24f574728.png)
 
 # Micropython
 Le Micropython est une variante de Python omptimisée et allégées pour les microcontroleurs et les systémes embarqués.
