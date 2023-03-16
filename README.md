@@ -16,7 +16,7 @@ Couplé au Raspberry, nous utiliserons les modules grooves fournit avec le shiel
 ![image](https://user-images.githubusercontent.com/125503055/225649778-d0dcf8b4-b458-4cfa-b0a9-a7c24f574728.png)
 
 # Micropython
-Le Micropython est une variante de Python omptimisée et allégées pour les microcontroleurs et les systémes embarqués.
+Le Micropython est une variante de Python omptimisée et allégées pour les microcontroleurs et les systémes embarqués. Il permet aux développeurs de créer des applications embarquées en utilisant un langage de programmation familier et facile à apprendre. Il dispose d'un ensemble de modules standard, tels que les modules pour la gestion des entrées/sorties, les réseaux, le temps, les mathématiques, les chaînes de caractères, etc. qui permettent de gérer facilement les périphériques connectés.
 
 # Thonny
 Il existe de nombreux environnements pour programmer en python et micropython, dnas notre cas nous utiliserons Thonny car c'est le plus simple à utiliser.
