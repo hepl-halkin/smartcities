@@ -18,3 +18,4 @@ PWM est le diminutif en anglais de modulation de largeur d'impulsion. L'impulsio
 ![pot_led](https://user-images.githubusercontent.com/125503055/226173958-ab89537d-0721-4f51-8a08-2183bb9793af.gif)
 
 ## [Jouer de la musique avec le buzzer](Buzzer.py)
+![image](https://user-images.githubusercontent.com/125503055/226174530-6bbdd6b1-1f5a-45ac-9e6f-4365e38f70fc.png)
