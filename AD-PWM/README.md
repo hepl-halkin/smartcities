@@ -6,3 +6,10 @@ PWM est le diminutif en anglais de modulation de largeur d'impulsion. L'impulsio
 
 ![image](https://user-images.githubusercontent.com/125503055/226172526-3d7635ff-4b82-401c-bacd-b449c4dda4d3.png)
 # Differents codes
+## [Lecture de la valeur du potentiométre](Potentiometre.py)
+
+## [Variation de la luminosité de la LED](PWM_LED.py)
+
+## [Controler de la LED via un potentiométre] (POT_LED.py)
+
+## [Jouer de la musique avec le buzzer] (Buzzer.py)
