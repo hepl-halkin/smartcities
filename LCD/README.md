@@ -13,7 +13,8 @@ Afin de se simplifier la tache on telechrage une librairie destinée à utiliser
 - d.setCursor(,) Permet de choisir la lignes et colognes où on veut afficher des informations
 # Les différents codes
 ## [Affichage d'un message](LCD_HELLOTHERE.py)
-
+![20230319_141433](https://user-images.githubusercontent.com/125503055/226177617-3eff2a5b-044d-4722-a155-e2b0605c217c.gif)
 ## [Affichage de la valeur d'un potentiométre](LCD_POT.py)
-
+![20230319_141957](https://user-images.githubusercontent.com/125503055/226177817-b31d349f-127d-46ed-9980-3b80309cc90a.gif)
 ## [Affichage de la valeur d'un potentiométre et variation de la luminosité d'une LED](LCD_POT_LED.py)
+![20230319_142303](https://user-images.githubusercontent.com/125503055/226177951-241b249e-2519-460d-ae6d-a7a232e49b78.gif)
