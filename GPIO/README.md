@@ -10,3 +10,5 @@ Dans cette partie nous allons voir comment commander une LED avec ou sans un bou
 - utime.sleep(): permet de mettre le programme en pause pendant un nombre défini de secondes
 
 # Les différents codes
+## [Clignotement de la LED sans bouton-poussoir](blink.py)
+
