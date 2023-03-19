@@ -11,9 +11,9 @@ PWM est le diminutif en anglais de modulation de largeur d'impulsion. L'impulsio
 
 ## [Variation de la luminosité de la LED](PWM_LED.py)
 ### Linéaire
-
+![lineaire](https://user-images.githubusercontent.com/125503055/226174325-a3ff8c48-6f2d-4923-a6d8-3be313f46c31.gif)
 ### Quadratique
-
+![quadratique](https://user-images.githubusercontent.com/125503055/226174330-f328e2d7-24e1-48ba-988a-d20448506d0f.gif)
 ## [Controle de la LED via un potentiométre](POT_LED.py)
 ![pot_led](https://user-images.githubusercontent.com/125503055/226173958-ab89537d-0721-4f51-8a08-2183bb9793af.gif)
 
