@@ -12,3 +12,8 @@ Afin de se simplifier la tache on telechrage une librairie destinée à utiliser
 - d.print() Permet d'afficher des informations
 - d.setCursor(,) Permet de choisir la lignes et colognes où on veut afficher des informations
 # Les différents codes
+## [Affichage d'un message](LCD_HELLOTHERE.py)
+
+## [Affichage de la valeur d'un potentiométre](LCD_POT.py)
+
+## [Affichage de la valeur d'un potentiométre et variation de la luminosité d'une LED](LCD_POT_LED.py)
