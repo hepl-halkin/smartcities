@@ -12,4 +12,4 @@ Dans cette partie nous allons voir comment commander une LED avec ou sans un bou
 # Les différents codes
 ## [Clignotement de la LED sans bouton-poussoir](blink.py)
 ![blink](https://user-images.githubusercontent.com/125503055/226171827-fbb77990-3f6b-4b04-8dc4-0b331a296341.gif)
-## [Clignotement de la LED sans bouton-poussoir](blink.py)
+## [Clignotement de la LED sans bouton-poussoir](Button_LED.py)
