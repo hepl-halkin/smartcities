@@ -6,3 +6,4 @@ Le Network Time Protocol permet de synchroniser l'horloge d'un appareilavec l'he
 
 ## [OpenWeatherMap](NTP_OWM_WiFi.py)
 Il s'agit d'un site permettant de voir et recevoir les conditions méteorologiques de la terre entiere via un API. Gràce à la connexion WiFi et en modifiant l'URL de base du site avec les coordonnées de la ville choisie, dans l'unitée choisie et avec notre clé API. Il suffit ensuite d'envoyer une requete via l'URL et d'afficher les informations recues sur l'ecran LCD.
+![7l51rn](https://github.com/hepl-halkin/smartcities/assets/125503055/33f1cb77-c33f-4aee-892a-0ede4eeb189d)
